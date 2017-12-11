@@ -1,0 +1,32 @@
+
+$theme_color: rgb(24, 164, 219);
+$text_color: #333;
+$attention_text: rgb(24, 164, 219);
+body,
+h1,
+h2,
+h3,
+h4,
+h5,p {
+    margin: 0;
+    padding: 0;
+}
+input {
+    -web-kit-appearance: none;
+    -moz-appearance: none;
+    margin-bottom: 15px;
+    border: none;
+    background: none;
+    font-size: 14px;
+    line-height: 14px;
+    border-bottom: 1px solid #333;
+    color: $text_color;
+    outline: none;
+    width: 100%;
+    padding: 0;
+}
+.back {
+    line-height: 30px;
+    margin-left: 10px;
+    color: $text_color;
+}
