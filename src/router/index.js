@@ -22,7 +22,6 @@ const Boot = asyncComponent("Welcome/Boot.vue"),
 Vue.use(Router);
 
 export default new Router({
-    mode: "history",
     routes: [
         {
             path: "/",
