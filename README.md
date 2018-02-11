@@ -28,3 +28,12 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+![image](https://github.com/Asweallcan/qqweb-view/blob/master/readmeImages/1.png)
+![image](https://github.com/Asweallcan/qqweb-view/blob/master/readmeImages/2.png)
+![image](https://github.com/Asweallcan/qqweb-view/blob/master/readmeImages/3.png)
+![image](https://github.com/Asweallcan/qqweb-view/blob/master/readmeImages/4.png)
+![image](https://github.com/Asweallcan/qqweb-view/blob/master/readmeImages/5.png)
+![image](https://github.com/Asweallcan/qqweb-view/blob/master/readmeImages/6.png)
+
+
